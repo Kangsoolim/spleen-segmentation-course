@@ -59,8 +59,8 @@
     },
     {
       "path": "CONTRIBUTORS.md",
-      "bytes": 1196,
-      "sha256": "0830edf15d26b20a582e718953aefee45baa31ae72b38472de51a9994add5158"
+      "bytes": 1243,
+      "sha256": "43d894895d0459c6913756b3ee942838a455601167e49f74d2d9cb01c91e7ece"
     },
     {
       "path": "data/cases.csv",
@@ -74,8 +74,8 @@
     },
     {
       "path": "docs/DATA_LICENSE_AND_ATTRIBUTION.md",
-      "bytes": 3157,
-      "sha256": "428a51c055ee4b6d596a862523b74250e99f8be05f2b927d50f812b0886c1030"
+      "bytes": 3201,
+      "sha256": "65236926b10740abcad0eb6cae9a483e72aaa290fc209722dbe77a2d0a9a80e9"
     },
     {
       "path": "docs/figures/unet_stage7_epoch1_to_final_curves.png",
@@ -114,13 +114,13 @@
     },
     {
       "path": "LICENSE",
-      "bytes": 1085,
-      "sha256": "55a19fdce71f70d1975437dab2a14a8caf06412d2c1136fa7a0ce4e93b0a67aa"
+      "bytes": 1101,
+      "sha256": "b7daec4c6d43f70fcb613b966146f803dfd038cd60d481806bb1579f89bfdd7c"
     },
     {
       "path": "NOTICE.md",
-      "bytes": 2211,
-      "sha256": "6c0c0e7c78d243c0e91c0ca8822f2a7243050411a71dd6359445f5674bbf0abe"
+      "bytes": 2283,
+      "sha256": "46156af418e684218dcd691f039e62b00fd5f13e5ec63065d762750b5f2ccbe3"
     },
     {
       "path": "PUBLIC_FILES.json",
@@ -130,8 +130,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9996,
-      "sha256": "535c5788974eda59e6a0bed5af3ae3774230999976484a7e73e073554ff7cfc6"
+      "bytes": 10093,
+      "sha256": "a1b9750b7a32add78ab69be0bd692f09f0ad104d5ffc50e8192391a0fd254d3b"
     },
     {
       "path": "requirements-unet.txt",

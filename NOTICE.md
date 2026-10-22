@@ -1,10 +1,10 @@
 # 版权、许可与署名
 
-本项目由 A（GitHub：Kangsoolim）和 B 共同完成，使用 A/B 作为公开贡献标识。双方同意公开共同项目成果并采用 MIT 软件许可证；实际贡献见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
+本项目由 [Kangsoolim](https://github.com/Kangsoolim) 和 [Yyyyu233](https://github.com/Yyyyu233) 共同完成，使用双方的 GitHub 账号署名。双方同意公开共同项目成果并采用 MIT 软件许可证；实际贡献见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
 
 ## 项目软件与原创文字
 
-本仓库项目原创源码、脚本、测试、配置及原创说明文字采用 [MIT License](LICENSE)，Copyright (c) 2026 A and B。下述数据衍生材料、第三方内容及其已有权利不受该软件授权覆盖。
+本仓库项目原创源码、脚本、测试、配置及原创说明文字采用 [MIT License](LICENSE)，Copyright (c) 2026 Kangsoolim and Yyyyu233。下述数据衍生材料、第三方内容及其已有权利不受该软件授权覆盖。
 
 ## MSD 数据与衍生内容
 

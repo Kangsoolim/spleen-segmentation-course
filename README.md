@@ -127,4 +127,4 @@ python scripts/evaluate.py --gt data/raw/Task09_Spleen/labelsTr/spleen_2.nii.gz 
 python -B -m unittest discover -s tests -t . -v
 ```
 
-完整文件清单与 SHA-256 见 [PUBLIC_FILES.json](PUBLIC_FILES.json)。项目原创代码采用 [MIT License](LICENSE)，贡献分工见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。MSD 数据及本仓库标记的数据衍生材料采用 CC BY-SA 4.0；PyTorch、MONAI、SimpleITK 等依赖分别遵循各自许可证。适用范围与第三方说明见 [NOTICE.md](NOTICE.md) 和 [数据许可与署名](docs/DATA_LICENSE_AND_ATTRIBUTION.md)。
+完整文件清单与 SHA-256 见 [PUBLIC_FILES.json](PUBLIC_FILES.json)。项目原创代码采用 [MIT License](LICENSE)，贡献者为 [Kangsoolim](https://github.com/Kangsoolim) 与 [Yyyyu233](https://github.com/Yyyyu233)，分工见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。MSD 数据及本仓库标记的数据衍生材料采用 CC BY-SA 4.0；PyTorch、MONAI、SimpleITK 等依赖分别遵循各自许可证。适用范围与第三方说明见 [NOTICE.md](NOTICE.md) 和 [数据许可与署名](docs/DATA_LICENSE_AND_ATTRIBUTION.md)。
