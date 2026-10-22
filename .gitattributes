@@ -1,0 +1,2 @@
+# Preserve reviewed source, config, manifest and result bytes across checkouts.
+* -text

@@ -1,0 +1,14 @@
+{
+  "python": "3.11.17",
+  "torch": "2.8.0+cu126",
+  "monai": "1.6.1",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "nibabel": "5.4.2",
+  "cuda_runtime": "12.6",
+  "cudnn": 91002,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "matplotlib": "3.11.2",
+  "SimpleITK": "2.5.6",
+  "PyYAML": "6.0.3"
+}

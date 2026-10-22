@@ -1,0 +1,21 @@
+# Stage 4: resume completed epoch 4, run only epochs 5--9, then stop.
+# All learning/data/precision/selection settings match the epoch-4 configuration.
+mode: full
+data_root: data/raw/Task09_Spleen
+cases_csv: data/cases.csv
+split_json: data/split.json
+train_case_ids: null
+val_case_ids: null
+seed: 42
+device: cuda
+epochs: 9
+batch_size: 4
+num_workers: 0
+learning_rate: 0.001
+dice_weight: 0.5
+bce_weight: 0.5
+amp: true
+max_train_batches: null
+threshold: 0.5
+patience: 10
+min_delta: 0.0001

@@ -1,0 +1,49 @@
+{
+  "n": 6,
+  "SD_ddof": 1,
+  "direction": "U-Net minus traditional postprocessed; negative absolute error delta favors U-Net",
+  "dice_3d": {
+    "mean": 0.08902109582614472,
+    "sample_sd": 0.15525316481358561
+  },
+  "iou_3d": {
+    "mean": 0.14072417444651017,
+    "sample_sd": 0.2092003287135069
+  },
+  "precision_3d": {
+    "mean": -0.004095019081901287,
+    "sample_sd": 0.3062159521492509
+  },
+  "recall_3d": {
+    "mean": 0.1750122578712542,
+    "sample_sd": 0.07175575182531208
+  },
+  "pred_volume_ml": {
+    "mean": -7.162397277060805,
+    "sample_sd": 127.60668836691178
+  },
+  "gt_volume_ml": {
+    "mean": 0.0,
+    "sample_sd": 0.0
+  },
+  "volume_error_ml_pred_minus_gt": {
+    "mean": -7.162397277060805,
+    "sample_sd": 127.60668836691178
+  },
+  "abs_volume_error_ml": {
+    "mean": -53.222907923088115,
+    "sample_sd": 100.49690491422308
+  },
+  "signed_relative_volume_error_percent": {
+    "mean": 21.57982854660314,
+    "sample_sd": 60.087280129433175
+  },
+  "RAVE_percent": {
+    "mean": -6.852194470551989,
+    "sample_sd": 40.60374965417053
+  },
+  "pred_to_gt_volume_ratio": {
+    "mean": 0.21579828546603133,
+    "sample_sd": 0.6008728012943317
+  }
+}

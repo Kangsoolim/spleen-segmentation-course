@@ -1,0 +1,5 @@
+# Extend B's image-processing requirements; preserve the tested CUDA Torch build.
+# Install Torch 2.8.0 for the target device separately (local: 2.8.0+cu126).
+-r requirements.txt
+monai==1.6.1
+PyYAML==6.0.3

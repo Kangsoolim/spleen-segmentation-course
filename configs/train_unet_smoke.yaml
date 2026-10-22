@@ -1,0 +1,20 @@
+# Real-data plumbing only: one partial epoch, four batches, one COMPLETE val CT.
+mode: smoke
+data_root: data/raw/Task09_Spleen
+cases_csv: data/cases.csv
+split_json: data/split.json
+train_case_ids: [spleen_2, spleen_3]
+val_case_ids: [spleen_9]
+seed: 42
+device: cuda
+epochs: 1
+batch_size: 4
+num_workers: 0
+learning_rate: 0.001
+dice_weight: 0.5
+bce_weight: 0.5
+amp: true
+max_train_batches: 4
+threshold: 0.5
+patience: 10
+min_delta: 0.0001

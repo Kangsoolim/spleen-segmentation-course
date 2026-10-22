@@ -1,0 +1,29 @@
+# Data and all derived medical volumes
+*.nii
+*.nii.gz
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+data/raw/
+# Weights and generated outputs
+*.pt
+*.pth
+*.ckpt
+outputs/
+logs/
+# Local environments, cache and secrets
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.conda/
+.env
+.env.*
+.aws/
+*.pem
+*.key

@@ -1,0 +1,21 @@
+{
+  "migration_id": "unet_amp_native_skip_v2_20261020",
+  "from_source_sha256": {
+    "src/training.py": "38f0851e2d9e1f2f65a1aed2161975da7dd6093e1eba7f8062e9519aaf7a13c3",
+    "src/unet_pipeline.py": "e38ed54b8996f612fd1b01fcebc2c6be550579f00ba2e6ea6e7859bd7f16ba23",
+    "src/unet_data.py": "4690a6f37ddebb6d2c7b5f4d649c845bb59d4097abb5f321248d8f50e0a4b26e",
+    "src/models/unet.py": "73ee43a87cd166766e0ff1f5edee190b76bb9f0ef1ddc952cbded1cfec688e16",
+    "src/common/io_spatial.py": "dd83764778c7f73c01f4cfdd2546d4aa506545debc82a2666aad22b3a492a7bb",
+    "src/common/evaluation.py": "289ac2f4e91c9c0028773609329f24b4f2b7967b4d5ccee3f66dd66aabce9132"
+  },
+  "to_source_sha256": {
+    "src/unet_pipeline.py": "185765d3d62056aa90dd9212d3608c686cf12d8ba23e21cdbb89d88136d00e31",
+    "src/unet_data.py": "4690a6f37ddebb6d2c7b5f4d649c845bb59d4097abb5f321248d8f50e0a4b26e",
+    "src/training.py": "c6592b4c350ea721bfe918f3c5e987c31f07932b58b40c82acbc2a8394a19f12",
+    "src/models/unet.py": "73ee43a87cd166766e0ff1f5edee190b76bb9f0ef1ddc952cbded1cfec688e16",
+    "src/common/io_spatial.py": "dd83764778c7f73c01f4cfdd2546d4aa506545debc82a2666aad22b3a492a7bb",
+    "src/common/evaluation.py": "289ac2f4e91c9c0028773609329f24b4f2b7967b4d5ccee3f66dd66aabce9132",
+    "scripts/train_unet.py": "53a7d560f2adb7ad4c9ba30301037727efea79f65fda9d8665910c60cf759be0"
+  },
+  "scope": "native AMP skip/backoff, counters/checkpoints/source verification; no data/model/loss/optimizer/LR/sampling/threshold change"
+}

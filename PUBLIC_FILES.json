@@ -1,0 +1,352 @@
+{
+  "status": "publication_payload",
+  "content_scope": "Only repository contents; review and pending CT assets are excluded.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 90,
+      "sha256": "72fd081cf01f11986cc883c7775d94940c7883f472e561a6c91feb607d269548"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 344,
+      "sha256": "7275cab3086587c9d5c335dc458f1ea985489640c96955f91f2d34880fce834d"
+    },
+    {
+      "path": "configs/checkpoint_compat_amp_v2.json",
+      "bytes": 1497,
+      "sha256": "395572aecc8aa980a9857a54342e7bd1b50e48bef7b9e8cbf8d28674e9c444b6"
+    },
+    {
+      "path": "configs/train_unet.yaml",
+      "bytes": 479,
+      "sha256": "b42b3c244083cbb6e174fe04e7556f7fe422f05dc9ba291f63fbb5692bdd3c7c"
+    },
+    {
+      "path": "configs/train_unet_ampfix_epoch14_review.yaml",
+      "bytes": 489,
+      "sha256": "e261a6af1f87dda92583e6479f56e81c4fdd391b0e42f2491dcbd9a090a9b0bd"
+    },
+    {
+      "path": "configs/train_unet_ampfix_epoch4_review.yaml",
+      "bytes": 497,
+      "sha256": "de31f66c4b92fca07ab9109bbe4b9f6234543912b32aca65c1716c0f1ecc2240"
+    },
+    {
+      "path": "configs/train_unet_ampfix_epoch9_review.yaml",
+      "bytes": 486,
+      "sha256": "16eb42b4cfb3f09a028379cc2b2184073185ac7c5d47c4f097f389d10859ea5c"
+    },
+    {
+      "path": "configs/train_unet_smoke.yaml",
+      "bytes": 435,
+      "sha256": "8463fd2f77aa250a05ad2b2f4a01fb32dea4948f094a7a74f86fd30932695158"
+    },
+    {
+      "path": "configs/train_unet_stage6_batch_order.yaml",
+      "bytes": 584,
+      "sha256": "9397e4fd559fc9ff0334d415b99b9bbf2538a438558441123845856402156bea"
+    },
+    {
+      "path": "configs/train_unet_stage7_final_candidate.yaml",
+      "bytes": 489,
+      "sha256": "861ff22d5b2ee23cf7e6cb8dca6d928d980b816e42dff9d4426e90d72421f1d7"
+    },
+    {
+      "path": "configs/unet_stage8_final_test.json",
+      "bytes": 1786,
+      "sha256": "fedb312ad2202b8a3b1668dce4959c2779dbc7aedcdebde297605eb56a49184a"
+    },
+    {
+      "path": "CONTRIBUTORS.md",
+      "bytes": 1196,
+      "sha256": "0830edf15d26b20a582e718953aefee45baa31ae72b38472de51a9994add5158"
+    },
+    {
+      "path": "data/cases.csv",
+      "bytes": 20329,
+      "sha256": "40b43c8ea60828b27040f892fa0b1ba0e43604c7f58eb3801e7fe80c393c5c34"
+    },
+    {
+      "path": "data/split.json",
+      "bytes": 2409,
+      "sha256": "22bf99d463fec833bfbf869b62cac7a6a1bcb78620d890ad1159ee4a246f3ce9"
+    },
+    {
+      "path": "docs/DATA_LICENSE_AND_ATTRIBUTION.md",
+      "bytes": 3157,
+      "sha256": "428a51c055ee4b6d596a862523b74250e99f8be05f2b927d50f812b0886c1030"
+    },
+    {
+      "path": "docs/figures/unet_stage7_epoch1_to_final_curves.png",
+      "bytes": 293526,
+      "sha256": "5550c15a46cc4aae621bd7dc58ffd841c9075c47235fb1190ba2a18d1bf7b7fc"
+    },
+    {
+      "path": "docs/figures/unet_stage7_selected_models_comparison.png",
+      "bytes": 71518,
+      "sha256": "f466634076a3f116165cbed02f5f84489a771988358d389ee407e2a4ceefd3da"
+    },
+    {
+      "path": "docs/figures/unet_stage8_paired_dice_iou.png",
+      "bytes": 81771,
+      "sha256": "66e71cb0a758d719357b6c3203cb41f09e0de8ab3db9f460f84ea2a7822bd7e1"
+    },
+    {
+      "path": "docs/figures/unet_stage8_volume_analysis.png",
+      "bytes": 127313,
+      "sha256": "7c19dfd9e2eb9d4d21c3f1da6d8f28f72828d78d2f1cefe6db1e80bf9e04cd6d"
+    },
+    {
+      "path": "docs/FINAL_REPORT.md",
+      "bytes": 13755,
+      "sha256": "8342707d4bcc65026730c74b1f14e67928097212a3ba3598f7978327837328bd"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 3179,
+      "sha256": "a925baac7de0a77afc23b96d46f21593ae394ccee28adaedecc46545b76624b8"
+    },
+    {
+      "path": "docs/TRAINING_STRATEGY.md",
+      "bytes": 1652,
+      "sha256": "979a1de7440552f560f4fd991c3014c13549ac846639dcdbdd18e84410ef22e7"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1085,
+      "sha256": "55a19fdce71f70d1975437dab2a14a8caf06412d2c1136fa7a0ce4e93b0a67aa"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 2211,
+      "sha256": "6c0c0e7c78d243c0e91c0ca8822f2a7243050411a71dd6359445f5674bbf0abe"
+    },
+    {
+      "path": "PUBLIC_FILES.json",
+      "bytes": null,
+      "sha256": null,
+      "note": "Self-reference; exact size and SHA-256 are recorded in the external review/PUBLIC_FILE_LIST.csv."
+    },
+    {
+      "path": "README.md",
+      "bytes": 9996,
+      "sha256": "535c5788974eda59e6a0bed5af3ae3774230999976484a7e73e073554ff7cfc6"
+    },
+    {
+      "path": "requirements-unet.txt",
+      "bytes": 206,
+      "sha256": "65fbffafa97af25051e269c52b772cf2cf16aa21f17f45333493d9168b5c84bb"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 168,
+      "sha256": "4d3119fde19a611c3546dcd69794154013ef7b4aa1dc224f9508abbef75c9f39"
+    },
+    {
+      "path": "results/final_test_evaluation/all_test_metrics.csv",
+      "bytes": 3700,
+      "sha256": "97af4048ff7b9b0225bb5a2db8aeddc42db15e9f85abc9a6d1ae6cfec9972cc5"
+    },
+    {
+      "path": "results/final_test_evaluation/per_case_comparison.csv",
+      "bytes": 643,
+      "sha256": "b708e422d2fe324513026a312ac927cad3f0dc4133bdc826f4e3fcf7c3987920"
+    },
+    {
+      "path": "results/final_test_evaluation/summary_mean_sd.csv",
+      "bytes": 409,
+      "sha256": "0ae69a06b10a6c79695cd4fe53eb2fe07da1861892dbc83ad9ac51a0d603e5b8"
+    },
+    {
+      "path": "results/unet_stage8_final_test/all_methods_test_metrics.csv",
+      "bytes": 5986,
+      "sha256": "b63907c82bb89b01e3f2071a74e2f58993eddaf07037c56598584c7f9801ddb9"
+    },
+    {
+      "path": "results/unet_stage8_final_test/paired_delta_summary.json",
+      "bytes": 1223,
+      "sha256": "dbe36f3632850837f4559575aa4d35a0c320d71afe8f8fed404bbffd491e630d"
+    },
+    {
+      "path": "results/unet_stage8_final_test/paired_test_comparison.csv",
+      "bytes": 4813,
+      "sha256": "0686817868ed40b7781faaa0f4b24ed0b872151b9a1aabf25ba0ff2bcdf56bbb"
+    },
+    {
+      "path": "results/unet_stage8_final_test/pip_freeze.txt",
+      "bytes": 942,
+      "sha256": "2d1d94633d053232b6d33b00bd7526b5790810283dbf20423a37c0b333b89869"
+    },
+    {
+      "path": "results/unet_stage8_final_test/runtime_environment.json",
+      "bytes": 309,
+      "sha256": "69250612924745236dd9a91f9ba4c811c397b12f0d42fceeeaf55296b3d382bf"
+    },
+    {
+      "path": "results/unet_stage8_final_test/summary_mean_sample_sd.csv",
+      "bytes": 1826,
+      "sha256": "57ffdd761b76ac9116cb73c2c71e024afc7d4db8b772302cfdd088a5d9c04b2b"
+    },
+    {
+      "path": "results/unet_stage8_final_test/traditional_reconciled_metrics.csv",
+      "bytes": 4146,
+      "sha256": "fcd1b4c048fb8015bc164cf45b6b3f869085fc6d3bd36f226e2e405f1252c3dd"
+    },
+    {
+      "path": "results/unet_stage8_final_test/unet_test_metrics.csv",
+      "bytes": 2147,
+      "sha256": "0ae1a6a93bd7eef3bc4e7acbbfa480facf0688a4313bfe98883dc6e2b9165df1"
+    },
+    {
+      "path": "results/unet_training_history/unet_full_seed42_ampfix_v2_epoch14_review.csv",
+      "bytes": 3977,
+      "sha256": "9b5381a60f0cef723f72e3e355b90a2bfdf8030c9e1318a26ee5640761eccbe9"
+    },
+    {
+      "path": "results/unet_training_history/unet_full_seed42_ampfix_v2_epoch4_review.csv",
+      "bytes": 1194,
+      "sha256": "7525ccf4d4bd59f3ce5e3a9b5b92eb4927f6d693a7eb37eb03ef58cedb6da1ee"
+    },
+    {
+      "path": "results/unet_training_history/unet_full_seed42_ampfix_v2_epoch9_review.csv",
+      "bytes": 2561,
+      "sha256": "494ec1bca2aee23b0f345f0828a75e0a4abc71c9cfc461a4cf6acf724eebff8f"
+    },
+    {
+      "path": "results/unet_training_history/unet_stage6_global_batch_shuffle_seed42.csv",
+      "bytes": 3956,
+      "sha256": "17363a938a8a54f2446b6b4ade1905b9298544fcdd1ef4cb857016137f290b6b"
+    },
+    {
+      "path": "results/unet_training_history/unet_stage7_global_batch_shuffle_seed42.csv",
+      "bytes": 7593,
+      "sha256": "a18d0039fe592381e9b7a7a4730d92fb279395721ffabc86c0e191044f740456"
+    },
+    {
+      "path": "scripts/__init__.py",
+      "bytes": 31,
+      "sha256": "5706f4d263843047f9a46d4594ca5d8a4bc025fc7ef19c16c766250a847fac3d"
+    },
+    {
+      "path": "scripts/download_msd_spleen.py",
+      "bytes": 7228,
+      "sha256": "9ab1b3293e18f9adbba36131ff85544b2aff4687154428dbe61723da1cb3cf38"
+    },
+    {
+      "path": "scripts/evaluate.py",
+      "bytes": 1326,
+      "sha256": "6e9bb5d52e79ad4b82f86c71684dca4df80f11d9a489e6368b1600cbd1abe027"
+    },
+    {
+      "path": "scripts/predict_unet.py",
+      "bytes": 1690,
+      "sha256": "c32e10eb5cac96704eb23b0d59f22e2a4b02b314fec6a5bc54b26d3faee0044f"
+    },
+    {
+      "path": "scripts/run_traditional_v2.py",
+      "bytes": 10798,
+      "sha256": "fa8d7d579f3d443a97f41915a4e7beed5a22c291272ee65f8d268403b81f0db2"
+    },
+    {
+      "path": "scripts/select_seed_roi.py",
+      "bytes": 9290,
+      "sha256": "739a87ff6b24044a371e302826ed94f904a1704cbfefe2a2ad5d989e6b55c0b3"
+    },
+    {
+      "path": "scripts/train_unet.py",
+      "bytes": 1144,
+      "sha256": "53a7d560f2adb7ad4c9ba30301037727efea79f65fda9d8665910c60cf759be0"
+    },
+    {
+      "path": "src/__init__.py",
+      "bytes": 31,
+      "sha256": "5706f4d263843047f9a46d4594ca5d8a4bc025fc7ef19c16c766250a847fac3d"
+    },
+    {
+      "path": "src/common/__init__.py",
+      "bytes": 31,
+      "sha256": "5706f4d263843047f9a46d4594ca5d8a4bc025fc7ef19c16c766250a847fac3d"
+    },
+    {
+      "path": "src/common/evaluation.py",
+      "bytes": 7245,
+      "sha256": "289ac2f4e91c9c0028773609329f24b4f2b7967b4d5ccee3f66dd66aabce9132"
+    },
+    {
+      "path": "src/common/io_spatial.py",
+      "bytes": 17367,
+      "sha256": "dd83764778c7f73c01f4cfdd2546d4aa506545debc82a2666aad22b3a492a7bb"
+    },
+    {
+      "path": "src/common/region_postprocess.py",
+      "bytes": 6358,
+      "sha256": "e724e06b5c8093c1210461d8490076a58ff0f2dd7caccdfde3f092aad40ca1da"
+    },
+    {
+      "path": "src/common/traditional_segmentation.py",
+      "bytes": 5601,
+      "sha256": "4950b0e87ded9b36bb14e1ef8135b9f3998519a49b862f16b676ac1ebbb54fc7"
+    },
+    {
+      "path": "src/common/visualization_physical.py",
+      "bytes": 4876,
+      "sha256": "ed78a37382f7b1a3978a787480322bde7a0dc5acab8f4ebbda6d3aac0d93f858"
+    },
+    {
+      "path": "src/models/unet.py",
+      "bytes": 260,
+      "sha256": "73ee43a87cd166766e0ff1f5edee190b76bb9f0ef1ddc952cbded1cfec688e16"
+    },
+    {
+      "path": "src/training.py",
+      "bytes": 11587,
+      "sha256": "c6592b4c350ea721bfe918f3c5e987c31f07932b58b40c82acbc2a8394a19f12"
+    },
+    {
+      "path": "src/unet_data.py",
+      "bytes": 6707,
+      "sha256": "4690a6f37ddebb6d2c7b5f4d649c845bb59d4097abb5f321248d8f50e0a4b26e"
+    },
+    {
+      "path": "src/unet_pipeline.py",
+      "bytes": 30648,
+      "sha256": "97967c6f2e05ee13c6eaa35aa93d7300679d858c66d027cb54a0bcb705925cc0"
+    },
+    {
+      "path": "src/unet_schedule.py",
+      "bytes": 2581,
+      "sha256": "6dd99770a7a2f60373718ddf24473a0425547fd6b46aba76ee7cb81ecfa42b0a"
+    },
+    {
+      "path": "tests/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tests/helpers.py",
+      "bytes": 466,
+      "sha256": "5bb5551172e842b3dad43618394c108a288ab9caf028dd690770d323c6a3c1bb"
+    },
+    {
+      "path": "tests/test_stage8_metrics.py",
+      "bytes": 1987,
+      "sha256": "84afac021679ab85f7ed71f1e562df295fdc42fddea39eff2cf40e2a8c3d78ea"
+    },
+    {
+      "path": "tests/test_unet_data.py",
+      "bytes": 9933,
+      "sha256": "560eaff488b8b22de1d7515715052ffd822f3e4ae3a1ecfc673af1dcd63fb1b0"
+    },
+    {
+      "path": "tests/test_unet_pipeline.py",
+      "bytes": 3876,
+      "sha256": "5d859000be887b71ccf4aa5d69a54d785384a44c14ee1a572d8d7de350db3bc8"
+    },
+    {
+      "path": "tests/test_unet_schedule.py",
+      "bytes": 3456,
+      "sha256": "c3e1c14d1b763f5ff04dde03482145b29b1dd4a22f0d652de2ea1c6472d7fa74"
+    }
+  ]
+}
